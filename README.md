@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/Python-61DBFB?style=for-the-badge&logo=python&labelColor=black&color=blue
+)
+
+
+
+
 <!--
 **dlduddnd/dlduddnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
